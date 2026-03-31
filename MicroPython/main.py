@@ -1,9 +1,9 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
-This module is a Micro:bit MicroPython program
+Created by: Murali Kothuri
+Created on: Mar 31
+This module says Hello Murali
 """
 
 from microbit import *
 
-display.scroll("Hello, World!")
+display.scroll("Hello, Murali!")
